@@ -1,0 +1,4 @@
+# support 
+1. SOL-USDC
+2. SAMO-USDC
+3. SOL-SAMO

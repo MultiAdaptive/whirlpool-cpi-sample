@@ -7,6 +7,20 @@
 #    --reset
 
 solana-test-validator \
+    --bind-address 0.0.0.0 \
+    --rpc-port 8899 \
+    --account 2JVd8ucG3SdDTTK3jWpM5hZpiuuNdZsMPvbgVHfATYSe test-validator/accounts/2JVd8ucG3SdDTTK3jWpM5hZpiuuNdZsMPvbgVHfATYSe.json \
+    --account 2ch7egrMqVKSQYKvCYizCvBkBPctnhTdmRm5cFVqcNhY test-validator/accounts/2ch7egrMqVKSQYKvCYizCvBkBPctnhTdmRm5cFVqcNhY.json \
+    --account 3gmP28UXkJYnWZh1yF126B6UEyVRyLDvmbdEBQT2js4v test-validator/accounts/3gmP28UXkJYnWZh1yF126B6UEyVRyLDvmbdEBQT2js4v.json \
+    --account 3xCKFNyZU11N3bZ1DufXskbHJQJ5hrdnTPPNpdq5wXYz test-validator/accounts/3xCKFNyZU11N3bZ1DufXskbHJQJ5hrdnTPPNpdq5wXYz.json \
+    --account 4nAiqm5QiZiwh1sMpmuJJdVUH12Fst2kPPzApNfppQGd test-validator/accounts/4nAiqm5QiZiwh1sMpmuJJdVUH12Fst2kPPzApNfppQGd.json \
+    --account 9VK5fdMsiCLR1xyrAdASnxi1cfAaNSoJ8htip4Zi3nG7 test-validator/accounts/9VK5fdMsiCLR1xyrAdASnxi1cfAaNSoJ8htip4Zi3nG7.json \
+    --account CVwAYoGNxjnsT1RbwK3k8ddPs5tsXLXRKCxbZ9ZwNfom test-validator/accounts/CVwAYoGNxjnsT1RbwK3k8ddPs5tsXLXRKCxbZ9ZwNfom.json \
+    --account F2BcvUZPsxBTd9F1gvVxcTtyjKhTeVxrxGMUoVpHr2dz test-validator/accounts/F2BcvUZPsxBTd9F1gvVxcTtyjKhTeVxrxGMUoVpHr2dz.json \
+    --account Fr6y32nswezResDrv4svQoqLvP7RMNzEPJwq7dgDZ8m  test-validator/accounts/Fr6y32nswezResDrv4svQoqLvP7RMNzEPJwq7dgDZ8m.json \
+    --account FxThfk5WH6YTWUGRtagDeXu6LSanjah3QbRjRh3ueZRS test-validator/accounts/FxThfk5WH6YTWUGRtagDeXu6LSanjah3QbRjRh3ueZRS.json \
+    --account HHdwz8PnUczL4PYdqkTrU7UV2JZZun1UAxAkGF7dTgHK test-validator/accounts/HHdwz8PnUczL4PYdqkTrU7UV2JZZun1UAxAkGF7dTgHK.json \
+    --account mU9sC5CYvpgMkM54KdDiMar4NGH9XF2rrVUJKmzDM54  test-validator/accounts/mU9sC5CYvpgMkM54KdDiMar4NGH9XF2rrVUJKmzDM54.json \
     --account B66pRzGcKMmxRJ16KMkJMJoQWWhmyk4na4DPcv6X5ZRD test-validator/accounts/samo_usdc_wp_position.B66pRzGcKMmxRJ16KMkJMJoQWWhmyk4na4DPcv6X5ZRD.json \
     --account DebZvpHUwAUmEfYBiZXpKUAFSqcMTXHe9vxcEaXYJ8er test-validator/accounts/samo_usdc_wp_reward0_vault.DebZvpHUwAUmEfYBiZXpKUAFSqcMTXHe9vxcEaXYJ8er.json \
     --account DNeQkfQ9ajaW8jGKkkhPpaDAhcHEbmt7beHVWPksPU2k test-validator/accounts/samo_usdc_wp_reward1_vault.DNeQkfQ9ajaW8jGKkkhPpaDAhcHEbmt7beHVWPksPU2k.json \
