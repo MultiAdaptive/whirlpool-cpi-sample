@@ -166,5 +166,19 @@ solana-test-validator \
     --account bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1 test-validator/accounts/sol-usdc-lut/bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1.json \
     --account ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82 test-validator/accounts/sol-usdc-lut/ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82.json \
     --account whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc test-validator/accounts/sol-usdc-lut/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc.json \
-    --reset
+    --account 2JTw1fE2wz1SymWUQ7UqpVtrTuKjcd6mWwYwUJUCh2rq test-validator/accounts/other-accs/2JTw1fE2wz1SymWUQ7UqpVtrTuKjcd6mWwYwUJUCh2rq.json \
+    --account 3YQm7ujtXWJU2e9jhp2QGHpnn1ShXn12QjvzMvDgabpX test-validator/accounts/other-accs/3YQm7ujtXWJU2e9jhp2QGHpnn1ShXn12QjvzMvDgabpX.json \
+    --account 4xDsmeTWPNjgSVSS1VTfzFq3iHZhp77ffPkAmkZkdu71 test-validator/accounts/other-accs/4xDsmeTWPNjgSVSS1VTfzFq3iHZhp77ffPkAmkZkdu71.json \
+    --account 6zAcFYmxkaH25qWZW5ek4dk4SyQNpSza3ydSoUxjTudD test-validator/accounts/other-accs/6zAcFYmxkaH25qWZW5ek4dk4SyQNpSza3ydSoUxjTudD.json \
+    --account 81T5kNuPRkyVzhwbe2RpKR7wmQpGJ7RBkGPdTqyfa5vq test-validator/accounts/other-accs/81T5kNuPRkyVzhwbe2RpKR7wmQpGJ7RBkGPdTqyfa5vq.json \
+    --account 9K1HWrGKZKfjTnKfF621BmEQdai4FcUz9tsoF41jwz5B test-validator/accounts/other-accs/9K1HWrGKZKfjTnKfF621BmEQdai4FcUz9tsoF41jwz5B.json \
+    --account AfA2VGGkcN2dtxuekM8oQgn3gZ9VdXznqkb3UWMCNj5S test-validator/accounts/other-accs/AfA2VGGkcN2dtxuekM8oQgn3gZ9VdXznqkb3UWMCNj5S.json \
+    --account EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v test-validator/accounts/other-accs/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.json \
+    --account EYxSnGjiyD2NfU8yBuGm6iUzmSdBaivJ9LEbgC8d7iHX test-validator/accounts/other-accs/EYxSnGjiyD2NfU8yBuGm6iUzmSdBaivJ9LEbgC8d7iHX.json \
+    --account HJPjoWUrhoZzkNfRpHuieeFk9WcZWjwy6PBjZ81ngndJ test-validator/accounts/other-accs/HJPjoWUrhoZzkNfRpHuieeFk9WcZWjwy6PBjZ81ngndJ.json \
+    --account HoDhUt77EotPNLUfJuvCCLbmpiM1JR6WLqWxeDPR1xvK test-validator/accounts/other-accs/HoDhUt77EotPNLUfJuvCCLbmpiM1JR6WLqWxeDPR1xvK.json \
+    --account MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr  test-validator/accounts/other-accs/MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr.json \
+    --account TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA  test-validator/accounts/other-accs/TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA.json \
+    --account m3BrPbv2TFmZZTPpyB9NgsCXqGNujpXvzvGqj8ksars  test-validator/accounts/other-accs/m3BrPbv2TFmZZTPpyB9NgsCXqGNujpXvzvGqj8ksars.json \
+--reset
 
