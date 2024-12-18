@@ -16,3 +16,8 @@ solana account -u m HoDhUt77EotPNLUfJuvCCLbmpiM1JR6WLqWxeDPR1xvK  --output-file 
 solana account -u m 81T5kNuPRkyVzhwbe2RpKR7wmQpGJ7RBkGPdTqyfa5vq  --output-file 81T5kNuPRkyVzhwbe2RpKR7wmQpGJ7RBkGPdTqyfa5vq.json --output json-compact
 solana account -u m 9K1HWrGKZKfjTnKfF621BmEQdai4FcUz9tsoF41jwz5B  --output-file 9K1HWrGKZKfjTnKfF621BmEQdai4FcUz9tsoF41jwz5B.json --output json-compact
 solana account -u m 4GkRbcYg1VKsZropgai4dMf2Nj2PkXNLf43knFpavrSi  --output-file 4GkRbcYg1VKsZropgai4dMf2Nj2PkXNLf43knFpavrSi.json --output json-compact
+
+
+solana account -u m 6U91aKa8pmMxkJwBCfPTmUEfZi6dHe7DcFq2ALvB2tbB --output-file 6U91aKa8pmMxkJwBCfPTmUEfZi6dHe7DcFq2ALvB2tbB.json --output json-compact
+solana account -u m 59v2cSbCsnyaWymLnsq6TWzE6cEN5KJYNTBNrcP4smRH --output-file 59v2cSbCsnyaWymLnsq6TWzE6cEN5KJYNTBNrcP4smRH.json --output json-compact
+solana account -u m 7x4VcEX8aLd3kFsNWULTp1qFgVtDwyWSxpTGQkoMM6XX --output-file 7x4VcEX8aLd3kFsNWULTp1qFgVtDwyWSxpTGQkoMM6XX.json --output json-compact
