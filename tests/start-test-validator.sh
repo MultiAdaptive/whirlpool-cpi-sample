@@ -174,5 +174,13 @@ solana-test-validator \
     --account 59v2cSbCsnyaWymLnsq6TWzE6cEN5KJYNTBNrcP4smRH  test-validator/accounts/song/59v2cSbCsnyaWymLnsq6TWzE6cEN5KJYNTBNrcP4smRH.json \
     --account 6U91aKa8pmMxkJwBCfPTmUEfZi6dHe7DcFq2ALvB2tbB  test-validator/accounts/song/6U91aKa8pmMxkJwBCfPTmUEfZi6dHe7DcFq2ALvB2tbB.json \
     --account 7x4VcEX8aLd3kFsNWULTp1qFgVtDwyWSxpTGQkoMM6XX  test-validator/accounts/song/7x4VcEX8aLd3kFsNWULTp1qFgVtDwyWSxpTGQkoMM6XX.json \
+    --account 2Eh8HEeu45tCWxY6ruLLRN6VcTSD7bfshGj7bZA87Kne test-validator/accounts/tickarrays/2Eh8HEeu45tCWxY6ruLLRN6VcTSD7bfshGj7bZA87Kne.json \
+    --account 81T5kNuPRkyVzhwbe2RpKR7wmQpGJ7RBkGPdTqyfa5vq test-validator/accounts/tickarrays/81T5kNuPRkyVzhwbe2RpKR7wmQpGJ7RBkGPdTqyfa5vq.json \
+    --account 9K1HWrGKZKfjTnKfF621BmEQdai4FcUz9tsoF41jwz5B test-validator/accounts/tickarrays/9K1HWrGKZKfjTnKfF621BmEQdai4FcUz9tsoF41jwz5B.json \
+    --account A2W6hiA2nf16iqtbZt9vX8FJbiXjv3DBUG3DgTja61HT test-validator/accounts/tickarrays/A2W6hiA2nf16iqtbZt9vX8FJbiXjv3DBUG3DgTja61HT.json \
+    --account CEstjhG1v4nUgvGDyFruYEbJ18X8XeN4sX1WFCLt4D5c test-validator/accounts/tickarrays/CEstjhG1v4nUgvGDyFruYEbJ18X8XeN4sX1WFCLt4D5c.json \
+    --account HJPjoWUrhoZzkNfRpHuieeFk9WcZWjwy6PBjZ81ngndJ test-validator/accounts/tickarrays/HJPjoWUrhoZzkNfRpHuieeFk9WcZWjwy6PBjZ81ngndJ.json \
+    --account HoDhUt77EotPNLUfJuvCCLbmpiM1JR6WLqWxeDPR1xvK test-validator/accounts/tickarrays/HoDhUt77EotPNLUfJuvCCLbmpiM1JR6WLqWxeDPR1xvK.json \
+    --account JCpxMSDRDPBMqjoX7LkhMwro2y6r85Q8E6p5zNdBZyWa test-validator/accounts/tickarrays/JCpxMSDRDPBMqjoX7LkhMwro2y6r85Q8E6p5zNdBZyWa.json \
 --reset
 
