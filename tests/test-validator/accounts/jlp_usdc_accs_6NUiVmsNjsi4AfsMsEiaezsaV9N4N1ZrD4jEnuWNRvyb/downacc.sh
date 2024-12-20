@@ -1,0 +1,9 @@
+solana account -u m EXrqY7jLTLp83H38L8Zw3GvGkk1KoQbYTckPGBghwD8X --output-file EXrqY7jLTLp83H38L8Zw3GvGkk1KoQbYTckPGBghwD8X.json --output json-compact
+solana account -u m JChqfU7KQ2Tw5FKJAom57HsuU5u5Vo53arzSHAQ5nHKt --output-file JChqfU7KQ2Tw5FKJAom57HsuU5u5Vo53arzSHAQ5nHKt.json --output json-compact
+solana account -u m 9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8 --output-file 9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8.json --output json-compact
+solana account -u m D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf --output-file D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf.json --output json-compact
+    
+--account D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf test-validator/accounts/jlp_usdc_accs_6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb/D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf.json \
+--account JChqfU7KQ2Tw5FKJAom57HsuU5u5Vo53arzSHAQ5nHKt test-validator/accounts/jlp_usdc_accs_6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb/JChqfU7KQ2Tw5FKJAom57HsuU5u5Vo53arzSHAQ5nHKt.json \
+--account 9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8 test-validator/accounts/jlp_usdc_accs_6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb/9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8.json \
+--account D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf test-validator/accounts/jlp_usdc_accs_6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb/D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf.json \
