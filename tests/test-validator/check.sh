@@ -16,9 +16,9 @@ solana account 4C3kEWG1tqTEWfh9oAhuqGSDA68bcBHGVQbZqUqx3hx9  | grep -E "Public K
 solana account So11111111111111111111111111111111111111112 | grep -E "Public Key|Executable"
 solana account JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 | grep -E "Public Key|Executable"
 solana account TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA | grep -E "Public Key|Executable"
-solana account 9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8  | grep -E "Public Key|Executable"
+solana account 9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8  | grep -E "Public Key|Executable" // 
 solana account EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v  | grep -E "Public Key|Executable"
 solana account 27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4  | grep -E "Public Key|Executable"
-solana account D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf  | grep -E "Public Key|Executable"
+solana account D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf  | grep -E "Public Key|Executable" //
 solana account whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc | grep -E "Public Key|Executable"
 solana account MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr | grep -E "Public Key|Executable"
