@@ -57,6 +57,7 @@ solana-test-validator \
     --account 62dSkn5ktwY1PoKPNMArZA4bZsvyemuknWUnnQ2ATTuN test-validator/accounts/whirlpools_config_feetier1.62dSkn5ktwY1PoKPNMArZA4bZsvyemuknWUnnQ2ATTuN.json \
     --account HT55NVGVTjWmWLjV7BrSMPVZ7ppU8T2xE5nCAZ6YaGad test-validator/accounts/whirlpools_config_feetier64.HT55NVGVTjWmWLjV7BrSMPVZ7ppU8T2xE5nCAZ6YaGad.json \
     --account BGnhGXT9CCt5WYS23zg9sqsAT2MGXkq7VSwch9pML82W test-validator/accounts/whirlpools_config_feetier128.BGnhGXT9CCt5WYS23zg9sqsAT2MGXkq7VSwch9pML82W.json \
+    --account 5hmqu5BRDebQ31td2HH7cTD4VPQH9vRj3ZShXNj44at4 test-validator/accounts/5hmqu5BRDebQ31td2HH7cTD4VPQH9vRj3ZShXNj44at4.json \
     --bpf-program whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc test-validator/programs/whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc.so \
     --bpf-program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s test-validator/programs/metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s.so \
     --bpf-program JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 test-validator/programs/JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4.so \
