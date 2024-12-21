@@ -66,6 +66,7 @@ solana-test-validator \
     --bpf-program FU21Sm2eQCjMG38ZDvMoaiTsWAZHALGbxZywowuRuCTG test-validator/programs/swap_to_sol.so \
     --bpf-program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA test-validator/programs/TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA.so \
     --bpf-program MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr test-validator/programs/MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr.so \
+    --bpf-program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL test-validator/programs/ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL.so \
     --account 29AMqGE8UYi6oDdQCkGCVV99FDi3nPp8Nz4xpN2hUMyo test-validator/accounts/sol-usdc-lut/29AMqGE8UYi6oDdQCkGCVV99FDi3nPp8Nz4xpN2hUMyo.json \
     --account 2BvWgGyVtxDG49aTAbT4fa9vC8JcZMJjvG16kYDArzEx test-validator/accounts/sol-usdc-lut/2BvWgGyVtxDG49aTAbT4fa9vC8JcZMJjvG16kYDArzEx.json \
     --account 2FjbVNHPFLe1L3iuWHyFAkoMuD7rPudTRzakU7eDNNSo test-validator/accounts/sol-usdc-lut/2FjbVNHPFLe1L3iuWHyFAkoMuD7rPudTRzakU7eDNNSo.json \
@@ -320,4 +321,7 @@ solana-test-validator \
     --account HD37F1KUVkoFgYuQThYyuXVxnA8Z9jRKmgWtaEDhdwK5 test-validator/accounts/jlp_sol_accs_6a3m2EgFFKfsFuQtP4LJJXPcAe3TQYXNyHUjjZpUxYgd/HD37F1KUVkoFgYuQThYyuXVxnA8Z9jRKmgWtaEDhdwK5.json \
     --account VNZQS8QDUzEdnT6irTxWMrqjyTBEmGorEqLN7cCEu9A  test-validator/accounts/jlp_sol_accs_6a3m2EgFFKfsFuQtP4LJJXPcAe3TQYXNyHUjjZpUxYgd/VNZQS8QDUzEdnT6irTxWMrqjyTBEmGorEqLN7cCEu9A.json \
     --account wZe2otuTBqvEEbSXXAZbBxaqy29L68F3KUDbZBTHhqm  test-validator/accounts/jlp_sol_accs_6a3m2EgFFKfsFuQtP4LJJXPcAe3TQYXNyHUjjZpUxYgd/wZe2otuTBqvEEbSXXAZbBxaqy29L68F3KUDbZBTHhqm.json \
+    --account 894yyGt6JwygvcVFRoEKBRjk5sfSon4BiURbxSxsCJyL test-validator/accounts/jlp_sol_accs_6a3m2EgFFKfsFuQtP4LJJXPcAe3TQYXNyHUjjZpUxYgd/894yyGt6JwygvcVFRoEKBRjk5sfSon4BiURbxSxsCJyL.json \
+    --account GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ test-validator/accounts/jlp_sol_accs_6a3m2EgFFKfsFuQtP4LJJXPcAe3TQYXNyHUjjZpUxYgd/GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ.json \
+    --account g7dD1FHSemkUQrX1Eak37wzvDjscgBW2pFCENwjLdMX  test-validator/accounts/jlp_sol_accs_6a3m2EgFFKfsFuQtP4LJJXPcAe3TQYXNyHUjjZpUxYgd/g7dD1FHSemkUQrX1Eak37wzvDjscgBW2pFCENwjLdMX.json \
 --reset
