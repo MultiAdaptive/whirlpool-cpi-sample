@@ -325,4 +325,6 @@ solana-test-validator \
     --account 894yyGt6JwygvcVFRoEKBRjk5sfSon4BiURbxSxsCJyL test-validator/accounts/jlp_sol_accs_6a3m2EgFFKfsFuQtP4LJJXPcAe3TQYXNyHUjjZpUxYgd/894yyGt6JwygvcVFRoEKBRjk5sfSon4BiURbxSxsCJyL.json \
     --account GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ test-validator/accounts/jlp_sol_accs_6a3m2EgFFKfsFuQtP4LJJXPcAe3TQYXNyHUjjZpUxYgd/GGztQqQ6pCPaJQnNpXBgELr5cs3WwDakRbh1iEMzjgSJ.json \
     --account g7dD1FHSemkUQrX1Eak37wzvDjscgBW2pFCENwjLdMX  test-validator/accounts/jlp_sol_accs_6a3m2EgFFKfsFuQtP4LJJXPcAe3TQYXNyHUjjZpUxYgd/g7dD1FHSemkUQrX1Eak37wzvDjscgBW2pFCENwjLdMX.json \
+    --account Fj6ZkojYr2GhBoPVL6s4v54FHfmmKehjyA7X8Ew1PQiF test-validator/accounts/Fj6ZkojYr2GhBoPVL6s4v54FHfmmKehjyA7X8Ew1PQiF.json \
+    --account J5a4BoK4DWxGAWxKVgfdJBhhd2R6KHyd36niYRbC8dVt test-validator/accounts/J5a4BoK4DWxGAWxKVgfdJBhhd2R6KHyd36niYRbC8dVt.json \
 --reset
