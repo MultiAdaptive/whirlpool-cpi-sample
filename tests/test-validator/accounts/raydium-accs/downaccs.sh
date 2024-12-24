@@ -1,0 +1,10 @@
+solana account -u m J5a4BoK4DWxGAWxKVgfdJBhhd2R6KHyd36niYRbC8dVt --output-file J5a4BoK4DWxGAWxKVgfdJBhhd2R6KHyd36niYRbC8dVt.json --output json-compact
+solana account -u m 9iFER3bpjf1PTTCQCfTRu17EJgvsxo9pVyA9QWwEuX4x --output-file 9iFER3bpjf1PTTCQCfTRu17EJgvsxo9pVyA9QWwEuX4x.json --output json-compact
+solana account -u m 8sLbNZoA1cfnvMJLPfp98ZLAnFSYCFApfJKMbiXNLwxj --output-file 8sLbNZoA1cfnvMJLPfp98ZLAnFSYCFApfJKMbiXNLwxj.json --output json-compact
+solana account -u m 6mK4Pxs6GhwnessH7CvPivqDYauiHZmAdbEFDpXFk9zt --output-file 6mK4Pxs6GhwnessH7CvPivqDYauiHZmAdbEFDpXFk9zt.json --output json-compact
+solana account -u m 6P4tvbzRY6Bh3MiWDHuLqyHywovsRwRpfskPvyeSoHsz --output-file 6P4tvbzRY6Bh3MiWDHuLqyHywovsRwRpfskPvyeSoHsz.json --output json-compact
+solana account -u m 3MsJXVvievxAbsMsaT6TS4i6oMitD9jazucuq3X234tC --output-file 3MsJXVvievxAbsMsaT6TS4i6oMitD9jazucuq3X234tC.json --output json-compact
+solana account -u m HZRJagYj4ddZTPXS1bZ6vzTs9hkfxQe4aSUonXofP6fj --output-file HZRJagYj4ddZTPXS1bZ6vzTs9hkfxQe4aSUonXofP6fj.json --output json-compact
+solana account -u m DoPuiZfJu7sypqwR4eiU7C5TMcmmiFoU4HaF5SoD8mRy --output-file DoPuiZfJu7sypqwR4eiU7C5TMcmmiFoU4HaF5SoD8mRy.json --output json-compact
+solana account -u m 3niHCuoNQnstKs98srqj2zrftUXeE8C3tCGfynA6dnCH --output-file 3niHCuoNQnstKs98srqj2zrftUXeE8C3tCGfynA6dnCH.json --output json-compact
+solana account -u m BLabjJ22ZyYQVba4gB6KDobKGFLRhCK3Xo5SyTPk7hwF --output-file BLabjJ22ZyYQVba4gB6KDobKGFLRhCK3Xo5SyTPk7hwF.json --output json-compact

@@ -328,4 +328,14 @@ solana-test-validator \
     --account g7dD1FHSemkUQrX1Eak37wzvDjscgBW2pFCENwjLdMX  test-validator/accounts/jlp_sol_accs_6a3m2EgFFKfsFuQtP4LJJXPcAe3TQYXNyHUjjZpUxYgd/g7dD1FHSemkUQrX1Eak37wzvDjscgBW2pFCENwjLdMX.json \
     --account Fj6ZkojYr2GhBoPVL6s4v54FHfmmKehjyA7X8Ew1PQiF test-validator/accounts/Fj6ZkojYr2GhBoPVL6s4v54FHfmmKehjyA7X8Ew1PQiF.json \
     --account J5a4BoK4DWxGAWxKVgfdJBhhd2R6KHyd36niYRbC8dVt test-validator/accounts/J5a4BoK4DWxGAWxKVgfdJBhhd2R6KHyd36niYRbC8dVt.json \
+    --account 3MsJXVvievxAbsMsaT6TS4i6oMitD9jazucuq3X234tC test-validator/accounts/raydium-accs/3MsJXVvievxAbsMsaT6TS4i6oMitD9jazucuq3X234tC.json \
+    --account 3niHCuoNQnstKs98srqj2zrftUXeE8C3tCGfynA6dnCH test-validator/accounts/raydium-accs/3niHCuoNQnstKs98srqj2zrftUXeE8C3tCGfynA6dnCH.json \
+    --account 6P4tvbzRY6Bh3MiWDHuLqyHywovsRwRpfskPvyeSoHsz test-validator/accounts/raydium-accs/6P4tvbzRY6Bh3MiWDHuLqyHywovsRwRpfskPvyeSoHsz.json \
+    --account 6mK4Pxs6GhwnessH7CvPivqDYauiHZmAdbEFDpXFk9zt test-validator/accounts/raydium-accs/6mK4Pxs6GhwnessH7CvPivqDYauiHZmAdbEFDpXFk9zt.json \
+    --account 8sLbNZoA1cfnvMJLPfp98ZLAnFSYCFApfJKMbiXNLwxj test-validator/accounts/raydium-accs/8sLbNZoA1cfnvMJLPfp98ZLAnFSYCFApfJKMbiXNLwxj.json \
+    --account 9iFER3bpjf1PTTCQCfTRu17EJgvsxo9pVyA9QWwEuX4x test-validator/accounts/raydium-accs/9iFER3bpjf1PTTCQCfTRu17EJgvsxo9pVyA9QWwEuX4x.json \
+    --account BLabjJ22ZyYQVba4gB6KDobKGFLRhCK3Xo5SyTPk7hwF test-validator/accounts/raydium-accs/BLabjJ22ZyYQVba4gB6KDobKGFLRhCK3Xo5SyTPk7hwF.json \
+    --account DoPuiZfJu7sypqwR4eiU7C5TMcmmiFoU4HaF5SoD8mRy test-validator/accounts/raydium-accs/DoPuiZfJu7sypqwR4eiU7C5TMcmmiFoU4HaF5SoD8mRy.json \
+    --account HZRJagYj4ddZTPXS1bZ6vzTs9hkfxQe4aSUonXofP6fj test-validator/accounts/raydium-accs/HZRJagYj4ddZTPXS1bZ6vzTs9hkfxQe4aSUonXofP6fj.json \
+    --account J5a4BoK4DWxGAWxKVgfdJBhhd2R6KHyd36niYRbC8dVt test-validator/accounts/raydium-accs/J5a4BoK4DWxGAWxKVgfdJBhhd2R6KHyd36niYRbC8dVt.json \
 --reset
