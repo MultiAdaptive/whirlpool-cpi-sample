@@ -338,4 +338,7 @@ solana-test-validator \
     --account DoPuiZfJu7sypqwR4eiU7C5TMcmmiFoU4HaF5SoD8mRy test-validator/accounts/raydium-accs/DoPuiZfJu7sypqwR4eiU7C5TMcmmiFoU4HaF5SoD8mRy.json \
     --account HZRJagYj4ddZTPXS1bZ6vzTs9hkfxQe4aSUonXofP6fj test-validator/accounts/raydium-accs/HZRJagYj4ddZTPXS1bZ6vzTs9hkfxQe4aSUonXofP6fj.json \
     --account J5a4BoK4DWxGAWxKVgfdJBhhd2R6KHyd36niYRbC8dVt test-validator/accounts/raydium-accs/J5a4BoK4DWxGAWxKVgfdJBhhd2R6KHyd36niYRbC8dVt.json \
+    --account 8Bw54uuff41XN7ywL6yjHtFFjPkhjR6JemFYyKD8qGXE test-validator/accounts/raydium-accs/8Bw54uuff41XN7ywL6yjHtFFjPkhjR6JemFYyKD8qGXE.json \
+    --account AboXieZyCczbU2ayK9sbBfsQ2wryUGhxQC3hGgFxqfkj test-validator/accounts/raydium-accs/AboXieZyCczbU2ayK9sbBfsQ2wryUGhxQC3hGgFxqfkj.json \
+    --account LGChwL3QTKnsACuxDPapBmv4J4kyFNjPS5P6ou4BTeJ  test-validator/accounts/raydium-accs/LGChwL3QTKnsACuxDPapBmv4J4kyFNjPS5P6ou4BTeJ.json \
 --reset
