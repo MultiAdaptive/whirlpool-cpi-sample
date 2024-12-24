@@ -68,6 +68,7 @@ solana-test-validator \
     --bpf-program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA test-validator/programs/TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA.so \
     --bpf-program MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr test-validator/programs/MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr.so \
     --bpf-program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL test-validator/programs/ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL.so \
+    --bpf-program CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK test-validator/programs/CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK.so \
     --account 29AMqGE8UYi6oDdQCkGCVV99FDi3nPp8Nz4xpN2hUMyo test-validator/accounts/sol-usdc-lut/29AMqGE8UYi6oDdQCkGCVV99FDi3nPp8Nz4xpN2hUMyo.json \
     --account 2BvWgGyVtxDG49aTAbT4fa9vC8JcZMJjvG16kYDArzEx test-validator/accounts/sol-usdc-lut/2BvWgGyVtxDG49aTAbT4fa9vC8JcZMJjvG16kYDArzEx.json \
     --account 2FjbVNHPFLe1L3iuWHyFAkoMuD7rPudTRzakU7eDNNSo test-validator/accounts/sol-usdc-lut/2FjbVNHPFLe1L3iuWHyFAkoMuD7rPudTRzakU7eDNNSo.json \
