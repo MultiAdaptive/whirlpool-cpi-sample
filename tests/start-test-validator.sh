@@ -350,4 +350,5 @@ solana-test-validator \
     --account H7uUQ4w9bycu7VDCex4P1Xm6u4DTuasSv3p2jVQUMbWp test-validator/accounts/raydium-accs/H7uUQ4w9bycu7VDCex4P1Xm6u4DTuasSv3p2jVQUMbWp.json \
     --account R8QQiVW31JSP19uCu35jMB4oabxeugXnpXCHKhitnt6  test-validator/accounts/raydium-accs/R8QQiVW31JSP19uCu35jMB4oabxeugXnpXCHKhitnt6.json \
     --account D6XNrxMsDoABJVVY5YyHxJuAB6WGzYCXpZeKyNtqu2v4 test-validator/accounts/raydium-accs/D6XNrxMsDoABJVVY5YyHxJuAB6WGzYCXpZeKyNtqu2v4.json \
+    --account HrnjZqVUPHMaHUaAJTh6Ni3GBqzuCcrZPLWAp3Ykr3Md test-validator/accounts/HrnjZqVUPHMaHUaAJTh6Ni3GBqzuCcrZPLWAp3Ykr3Md.json \
 --reset
