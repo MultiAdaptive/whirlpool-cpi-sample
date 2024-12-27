@@ -1,18 +1,14 @@
-solana account -u m EXrqY7jLTLp83H38L8Zw3GvGkk1KoQbYTckPGBghwD8X --output-file EXrqY7jLTLp83H38L8Zw3GvGkk1KoQbYTckPGBghwD8X.json --output json-compact
-solana account -u m JChqfU7KQ2Tw5FKJAom57HsuU5u5Vo53arzSHAQ5nHKt --output-file JChqfU7KQ2Tw5FKJAom57HsuU5u5Vo53arzSHAQ5nHKt.json --output json-compact
-solana account -u m 9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8 --output-file 9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8.json --output json-compact
-solana account -u m D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf --output-file D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf.json --output json-compact
-    
---account D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf test-validator/accounts/jlp_usdc_accs_6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb/D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf.json \
---account JChqfU7KQ2Tw5FKJAom57HsuU5u5Vo53arzSHAQ5nHKt test-validator/accounts/jlp_usdc_accs_6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb/JChqfU7KQ2Tw5FKJAom57HsuU5u5Vo53arzSHAQ5nHKt.json \
---account 9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8 test-validator/accounts/jlp_usdc_accs_6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb/9nnLbotNTcUhvbrsA6Mdkx45Sm82G35zo28AqUvjExn8.json \
---account D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf test-validator/accounts/jlp_usdc_accs_6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb/D8cy77BBepLMngZx6ZukaTff5hCt1HrWyKk3Hnd9oitf.json \
-
-
---account 6LXutJvKUw8Q5ue2gCgKHQdAN4suWW8awzFVC6XCguFx test-validator/accounts/jlp_usdc_accs_6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb/6LXutJvKUw8Q5ue2gCgKHQdAN4suWW8awzFVC6XCguFx.json \
---account G4CD7aqqZZ6QKCNHrc1MPdS9Aw8BWmQ5ZkDd54W6mAEG test-validator/accounts/jlp_usdc_accs_6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb/G4CD7aqqZZ6QKCNHrc1MPdS9Aw8BWmQ5ZkDd54W6mAEG.json \
---account H1egbZoSdeKU3Jjpszw3zfgqGTLgRhmnUQhZeNviK79y test-validator/accounts/jlp_usdc_accs_6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb/H1egbZoSdeKU3Jjpszw3zfgqGTLgRhmnUQhZeNviK79y.json \
-
-
-5hmqu5BRDebQ31td2HH7cTD4VPQH9vRj3ZShXNj44at4
---account 5hmqu5BRDebQ31td2HH7cTD4VPQH9vRj3ZShXNj44at4 test-validator/accounts/jlp_usdc_accs_6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb/5hmqu5BRDebQ31td2HH7cTD4VPQH9vRj3ZShXNj44at4.json \
+solana account -u m 27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4 --output-file 27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4.json --output json-compact
+solana account -u m 2KiAy13bDCMGfJ8MqbpTC7g3CunHjLQYMs3wK14XM5LZ --output-file 2KiAy13bDCMGfJ8MqbpTC7g3CunHjLQYMs3wK14XM5LZ.json --output json-compact
+solana account -u m 2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ --output-file 2LecshUwdy9xi7meFgHtFJQNSKk4KdTrcpvaB56dP2NQ.json --output json-compact
+solana account -u m 6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb --output-file 6NUiVmsNjsi4AfsMsEiaezsaV9N4N1ZrD4jEnuWNRvyb.json --output json-compact
+solana account -u m 7cs1chipprbrp8z84E7GX7WMf63Cgrohyi3r1W6gUGpu --output-file 7cs1chipprbrp8z84E7GX7WMf63Cgrohyi3r1W6gUGpu.json --output json-compact
+solana account -u m 9EDgyY9m2LGGHt9ZRcprbDAjUFurWVUoH3HRZ4Cm963P --output-file 9EDgyY9m2LGGHt9ZRcprbDAjUFurWVUoH3HRZ4Cm963P.json --output json-compact
+solana account -u m BH9LXGqLhZV3hdvShYZhgQQEjPVKhHPyHwjnsxjETFRr --output-file BH9LXGqLhZV3hdvShYZhgQQEjPVKhHPyHwjnsxjETFRr.json --output json-compact
+solana account -u m Bz6Z63thYDzcs8ddLQ2CuoAMdK4QNjRhnr3RCLN5vciF --output-file Bz6Z63thYDzcs8ddLQ2CuoAMdK4QNjRhnr3RCLN5vciF.json --output json-compact
+solana account -u m E8unvjyzG2QpaWWtV1s7uixeCW7QMs49Q2jQ86U19DjJ --output-file E8unvjyzG2QpaWWtV1s7uixeCW7QMs49Q2jQ86U19DjJ.json --output json-compact
+solana account -u m EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v --output-file EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.json --output json-compact
+solana account -u m FGixaRkAbKtrL6bdaRwAgb9gXocYRMmn6m6betSdckZm --output-file FGixaRkAbKtrL6bdaRwAgb9gXocYRMmn6m6betSdckZm.json --output json-compact
+solana account -u m GeBC3bZ6ixc6BMXpyuA9eZDxtDudjZYS8pZswWrijGVk --output-file GeBC3bZ6ixc6BMXpyuA9eZDxtDudjZYS8pZswWrijGVk.json --output json-compact
+solana account -u m GoJSsR8AwPWCbbbFfwVtT97vTEdKs3kwGkahgvhiybMU --output-file GoJSsR8AwPWCbbbFfwVtT97vTEdKs3kwGkahgvhiybMU.json --output json-compact
+solana account -u m J9twoKR2DfmyvE8HX6fDraaY2q5oECkHpZgtySiJkpsV --output-file J9twoKR2DfmyvE8HX6fDraaY2q5oECkHpZgtySiJkpsV.json --output json-compact
