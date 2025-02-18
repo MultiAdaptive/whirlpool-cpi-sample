@@ -332,7 +332,6 @@ solana-test-validator \
     --account 3niHCuoNQnstKs98srqj2zrftUXeE8C3tCGfynA6dnCH test-validator/accounts/raydium-accs/3niHCuoNQnstKs98srqj2zrftUXeE8C3tCGfynA6dnCH.json \
     --account 6P4tvbzRY6Bh3MiWDHuLqyHywovsRwRpfskPvyeSoHsz test-validator/accounts/raydium-accs/6P4tvbzRY6Bh3MiWDHuLqyHywovsRwRpfskPvyeSoHsz.json \
     --account 6mK4Pxs6GhwnessH7CvPivqDYauiHZmAdbEFDpXFk9zt test-validator/accounts/raydium-accs/6mK4Pxs6GhwnessH7CvPivqDYauiHZmAdbEFDpXFk9zt.json \
-    --account 8sLbNZoA1cfnvMJLPfp98ZLAnFSYCFApfJKMbiXNLwxj test-validator/accounts/raydium-accs/8sLbNZoA1cfnvMJLPfp98ZLAnFSYCFApfJKMbiXNLwxj.json \
     --account 9iFER3bpjf1PTTCQCfTRu17EJgvsxo9pVyA9QWwEuX4x test-validator/accounts/raydium-accs/9iFER3bpjf1PTTCQCfTRu17EJgvsxo9pVyA9QWwEuX4x.json \
     --account BLabjJ22ZyYQVba4gB6KDobKGFLRhCK3Xo5SyTPk7hwF test-validator/accounts/raydium-accs/BLabjJ22ZyYQVba4gB6KDobKGFLRhCK3Xo5SyTPk7hwF.json \
     --account DoPuiZfJu7sypqwR4eiU7C5TMcmmiFoU4HaF5SoD8mRy test-validator/accounts/raydium-accs/DoPuiZfJu7sypqwR4eiU7C5TMcmmiFoU4HaF5SoD8mRy.json \
@@ -366,4 +365,9 @@ solana-test-validator \
     --account Fjo3GFubPogHFqfp9LrwEzgWmX7SsRpknqDkSmufshGn test-validator/accounts/dex/raydium_amm/Fjo3GFubPogHFqfp9LrwEzgWmX7SsRpknqDkSmufshGn.json \
     --account HvCReNkZm5iek6oDHPUTyTAotgtanMySt5FyXd5iz3gY test-validator/accounts/dex/raydium_amm/HvCReNkZm5iek6oDHPUTyTAotgtanMySt5FyXd5iz3gY.json \
     --account 3DkZ31TqfnedxZmaFCvTYHHVUuomy198yZmpvcHKpump test-validator/accounts/dex/raydium_amm/3DkZ31TqfnedxZmaFCvTYHHVUuomy198yZmpvcHKpump.json \
+    --account ApU1nzd1kqviqq5w83WdwCWSH7mymwu62T3i6UYkXzeS test-validator/accounts/dex/raydium_amm/ApU1nzd1kqviqq5w83WdwCWSH7mymwu62T3i6UYkXzeS.json \
+    --account 4N25fhRwA7MqDugvynNsuhxrDaBWNp3eJcQkfuZvAQm1 test-validator/accounts/dex/raydium_clmm/4N25fhRwA7MqDugvynNsuhxrDaBWNp3eJcQkfuZvAQm1.json \
+    --account HPP7J3DS4Hgcz8FVczAXeA73Rg5h7F2NQcMc8zgdoSfK test-validator/accounts/dex/raydium_clmm/HPP7J3DS4Hgcz8FVczAXeA73Rg5h7F2NQcMc8zgdoSfK.json \
+    --account 4gPzKMT68i89kc8whamW5yGgRRMrYw5pjqUiHkvwQS1j test-validator/accounts/dex/raydium_clmm/4gPzKMT68i89kc8whamW5yGgRRMrYw5pjqUiHkvwQS1j.json \
+    --account 8sLbNZoA1cfnvMJLPfp98ZLAnFSYCFApfJKMbiXNLwxj test-validator/accounts/dex/raydium_clmm/8sLbNZoA1cfnvMJLPfp98ZLAnFSYCFApfJKMbiXNLwxj.json \
 --reset
