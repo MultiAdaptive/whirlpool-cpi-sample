@@ -383,4 +383,17 @@ solana-test-validator \
     --account BtcEwMNm8maXpjfvf4w5k4QoP2uan8jAs8j3howLwRo7 test-validator/accounts/sol_usdc/clmm/BtcEwMNm8maXpjfvf4w5k4QoP2uan8jAs8j3howLwRo7.json \
     --account 8XQ6kdfTWN96HMNAQyRWyoxPBJrev4vYnpqQcBCmXMRK test-validator/accounts/sol_usdc/clmm/8XQ6kdfTWN96HMNAQyRWyoxPBJrev4vYnpqQcBCmXMRK.json \
     --account 5gfFuF2iQ41fZ7YQvYNCD4w7hojiKYsZgUd8AKSFaBUH test-validator/accounts/sol_usdc/clmm/5gfFuF2iQ41fZ7YQvYNCD4w7hojiKYsZgUd8AKSFaBUH.json \
+    --account 58oQChx4yWmvKdwLLZzBi4ChoCc2fqCUWBkwMihLYQo2 test-validator/accounts/sol_usdc/amm/58oQChx4yWmvKdwLLZzBi4ChoCc2fqCUWBkwMihLYQo2.json \
+    --account HmiHHzq4Fym9e1D4qzLS6LDDM3tNsCTBPDWHTLZ763jY test-validator/accounts/sol_usdc/amm/HmiHHzq4Fym9e1D4qzLS6LDDM3tNsCTBPDWHTLZ763jY.json \
+    --account DQyrAcCrDXQ7NeoqGgDCZwBvWDcYmFCjSb9JtteuvPpz test-validator/accounts/sol_usdc/amm/DQyrAcCrDXQ7NeoqGgDCZwBvWDcYmFCjSb9JtteuvPpz.json \
+    --account HLmqeL62xR1QoZ1HKKbXRrdN1p3phKpxRMb2VVopvBBz test-validator/accounts/sol_usdc/amm/HLmqeL62xR1QoZ1HKKbXRrdN1p3phKpxRMb2VVopvBBz.json \
+    --account 8BnEgHoWFysVcuFFX7QztDmzuH8r5ZFvyP3sYwn1XTh6 test-validator/accounts/sol_usdc/amm/8BnEgHoWFysVcuFFX7QztDmzuH8r5ZFvyP3sYwn1XTh6.json \
+    --account 5jWUncPNBMZJ3sTHKmMLszypVkoRK6bfEQMQUHweeQnh test-validator/accounts/sol_usdc/amm/5jWUncPNBMZJ3sTHKmMLszypVkoRK6bfEQMQUHweeQnh.json \
+    --account EaXdHx7x3mdGA38j5RSmKYSXMzAFzzUXCLNBEDXDn1d5 test-validator/accounts/sol_usdc/amm/EaXdHx7x3mdGA38j5RSmKYSXMzAFzzUXCLNBEDXDn1d5.json \
+    --account 8CvwxZ9Db6XbLD46NZwwmVDZZRDy7eydFcAGkXKh9axa test-validator/accounts/sol_usdc/amm/8CvwxZ9Db6XbLD46NZwwmVDZZRDy7eydFcAGkXKh9axa.json \
+    --account CKxTHwM9fPMRRvZmFnFoqKNd9pQR21c5Aq9bh5h9oghX test-validator/accounts/sol_usdc/amm/CKxTHwM9fPMRRvZmFnFoqKNd9pQR21c5Aq9bh5h9oghX.json \
+    --account 6A5NHCj1yF6urc9wZNe6Bcjj4LVszQNj5DwAWG97yzMu test-validator/accounts/sol_usdc/amm/6A5NHCj1yF6urc9wZNe6Bcjj4LVszQNj5DwAWG97yzMu.json \
+    --account 61acRgpURKTU8LKPJKs6WQa18KzD9ogavXzjxfD84KLu test-validator/accounts/sol_usdc/amm/61acRgpURKTU8LKPJKs6WQa18KzD9ogavXzjxfD84KLu.json \
+    --account 5TNqqz6AtgJtabKjivHcQq7oH7by3EaTGWuAs8VevJNt test-validator/accounts/sol_usdc/amm/5TNqqz6AtgJtabKjivHcQq7oH7by3EaTGWuAs8VevJNt.json \
+    --account ND3X3UpMaB1nze61QjS7LvDk1K3syFtkWMNY5nUc7kB test-validator/accounts/sol_usdc/amm/ND3X3UpMaB1nze61QjS7LvDk1K3syFtkWMNY5nUc7kB.json \
 --reset
