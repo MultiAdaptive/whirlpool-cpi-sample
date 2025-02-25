@@ -371,4 +371,16 @@ solana-test-validator \
     --account 4gPzKMT68i89kc8whamW5yGgRRMrYw5pjqUiHkvwQS1j test-validator/accounts/dex/raydium_clmm/4gPzKMT68i89kc8whamW5yGgRRMrYw5pjqUiHkvwQS1j.json \
     --account 8sLbNZoA1cfnvMJLPfp98ZLAnFSYCFApfJKMbiXNLwxj test-validator/accounts/dex/raydium_clmm/8sLbNZoA1cfnvMJLPfp98ZLAnFSYCFApfJKMbiXNLwxj.json \
     --account 4THBSbyNF68ndNs8hTiDNg9FdY1zeYV6pMsGYacRtB5B test-validator/accounts/dex/4THBSbyNF68ndNs8hTiDNg9FdY1zeYV6pMsGYacRtB5B.json \
+    --account 3h2e43PunVA5K34vwKCLHWhZF4aZpyaC9RmxvshGAQpL test-validator/accounts/sol_usdc/clmm/3h2e43PunVA5K34vwKCLHWhZF4aZpyaC9RmxvshGAQpL.json \
+    --account 3ucNos4NbumPLZNWztqGHNFFgkHeRMBQAVemeeomsUxv test-validator/accounts/sol_usdc/clmm/3ucNos4NbumPLZNWztqGHNFFgkHeRMBQAVemeeomsUxv.json \
+    --account 5it83u57VRrVgc51oNV19TTmAJuffPx5GtGwQr7gQNUo test-validator/accounts/sol_usdc/clmm/5it83u57VRrVgc51oNV19TTmAJuffPx5GtGwQr7gQNUo.json \
+    --account 4ct7br2vTPzfdmY3S5HLtTxcGSBfn6pnw98hsS6v359A test-validator/accounts/sol_usdc/clmm/4ct7br2vTPzfdmY3S5HLtTxcGSBfn6pnw98hsS6v359A.json \
+    --account 3Y695CuQ8AP4anbwAqiEBeQF9KxqHFr8piEwvw3UePnQ test-validator/accounts/sol_usdc/clmm/3Y695CuQ8AP4anbwAqiEBeQF9KxqHFr8piEwvw3UePnQ.json \
+    --account CP7GVRDttKwS3gaWK4yMQi2fMw2hmzjHCr9rYr2BwW6z test-validator/accounts/sol_usdc/clmm/CP7GVRDttKwS3gaWK4yMQi2fMw2hmzjHCr9rYr2BwW6z.json \
+    --account 4NFvUKqknMpoe6CWTzK758B8ojVLzURL5pC6MtiaJ8TQ test-validator/accounts/sol_usdc/clmm/4NFvUKqknMpoe6CWTzK758B8ojVLzURL5pC6MtiaJ8TQ.json \
+    --account FA42doycAmrpuXmVx4sXeAio8Xi7SzqxK7guQYproFMB test-validator/accounts/sol_usdc/clmm/FA42doycAmrpuXmVx4sXeAio8Xi7SzqxK7guQYproFMB.json \
+    --account 45GxDE7aUZxXots2J1CxZzU5dyFtxvWcVzauvu1GSPQB test-validator/accounts/sol_usdc/clmm/45GxDE7aUZxXots2J1CxZzU5dyFtxvWcVzauvu1GSPQB.json \
+    --account BtcEwMNm8maXpjfvf4w5k4QoP2uan8jAs8j3howLwRo7 test-validator/accounts/sol_usdc/clmm/BtcEwMNm8maXpjfvf4w5k4QoP2uan8jAs8j3howLwRo7.json \
+    --account 8XQ6kdfTWN96HMNAQyRWyoxPBJrev4vYnpqQcBCmXMRK test-validator/accounts/sol_usdc/clmm/8XQ6kdfTWN96HMNAQyRWyoxPBJrev4vYnpqQcBCmXMRK.json \
+    --account 5gfFuF2iQ41fZ7YQvYNCD4w7hojiKYsZgUd8AKSFaBUH test-validator/accounts/sol_usdc/clmm/5gfFuF2iQ41fZ7YQvYNCD4w7hojiKYsZgUd8AKSFaBUH.json \
 --reset

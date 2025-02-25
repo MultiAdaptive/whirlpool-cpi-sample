@@ -1,0 +1,3 @@
+solana account -u https://quiet-cool-mound.solana-mainnet.quiknode.pro/72790efbbc9240990d1bfb9e4a02835bceea0461 BtcEwMNm8maXpjfvf4w5k4QoP2uan8jAs8j3howLwRo7 --output-file BtcEwMNm8maXpjfvf4w5k4QoP2uan8jAs8j3howLwRo7.json --output json-compact
+solana account -u https://quiet-cool-mound.solana-mainnet.quiknode.pro/72790efbbc9240990d1bfb9e4a02835bceea0461 8XQ6kdfTWN96HMNAQyRWyoxPBJrev4vYnpqQcBCmXMRK --output-file 8XQ6kdfTWN96HMNAQyRWyoxPBJrev4vYnpqQcBCmXMRK.json --output json-compact
+solana account -u https://quiet-cool-mound.solana-mainnet.quiknode.pro/72790efbbc9240990d1bfb9e4a02835bceea0461 5gfFuF2iQ41fZ7YQvYNCD4w7hojiKYsZgUd8AKSFaBUH --output-file 5gfFuF2iQ41fZ7YQvYNCD4w7hojiKYsZgUd8AKSFaBUH.json --output json-compact
