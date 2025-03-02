@@ -424,4 +424,13 @@ solana-test-validator \
     --account So11111111111111111111111111111111111111112 test-validator/accounts/sol_usdc/orca/So11111111111111111111111111111111111111112.json \
     --account fxhJkwCQiExLf4TeHrKirowKauqBdzXudAx6Rn9hgxi test-validator/accounts/sol_usdc/orca/fxhJkwCQiExLf4TeHrKirowKauqBdzXudAx6Rn9hgxi.json \
     --account orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE test-validator/accounts/sol_usdc/orca/orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE.json \
+    --account 5rCf1DM8LjKTw4YqhnoLcngyZYeNnQqztScTogYHAS6  test-validator/accounts/sol_usdc/dlmm/5rCf1DM8LjKTw4YqhnoLcngyZYeNnQqztScTogYHAS6.json \
+    --account EYj9xKw6ZszwpyNibHY7JD5o3QgTVrSdcBp1fMJhrR9o test-validator/accounts/sol_usdc/dlmm/EYj9xKw6ZszwpyNibHY7JD5o3QgTVrSdcBp1fMJhrR9o.json \
+    --account CoaxzEh8p5YyGLcj36Eo3cUThVJxeKCs7qvLAGDYwBcz test-validator/accounts/sol_usdc/dlmm/CoaxzEh8p5YyGLcj36Eo3cUThVJxeKCs7qvLAGDYwBcz.json \
+    --account 59YuGWPunbchD2mbi9U7qvjWQKQReGeepn4ZSr9zz9Li test-validator/accounts/sol_usdc/dlmm/59YuGWPunbchD2mbi9U7qvjWQKQReGeepn4ZSr9zz9Li.json \
+    --account D1ZN9Wj1fRSUQfCjhvnu1hqDMT7hzjzBBpi12nVniYD6 test-validator/accounts/sol_usdc/dlmm/D1ZN9Wj1fRSUQfCjhvnu1hqDMT7hzjzBBpi12nVniYD6.json \
+    --account GjssLk7Q7udkhB62k3i77eo97HPNKbG3GnRm1VhZJCqj test-validator/accounts/sol_usdc/dlmm/GjssLk7Q7udkhB62k3i77eo97HPNKbG3GnRm1VhZJCqj.json \
+    --account Uvi3SzhdL75CRSq5npUV8GFyyh7BAVhCrQYbcmXeJhw  test-validator/accounts/sol_usdc/dlmm/Uvi3SzhdL75CRSq5npUV8GFyyh7BAVhCrQYbcmXeJhw.json \
+    --account 6p8p1B6JrEWQDC768pnQCj4u5s95oySDwmZPsVtoP5iN test-validator/accounts/sol_usdc/dlmm/6p8p1B6JrEWQDC768pnQCj4u5s95oySDwmZPsVtoP5iN.json \
+    --bpf-program LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo test-validator/accounts/sol_usdc/dlmm/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo.so \
     --reset
