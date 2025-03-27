@@ -433,4 +433,19 @@ solana-test-validator \
     --account Uvi3SzhdL75CRSq5npUV8GFyyh7BAVhCrQYbcmXeJhw  test-validator/accounts/sol_usdc/dlmm/Uvi3SzhdL75CRSq5npUV8GFyyh7BAVhCrQYbcmXeJhw.json \
     --account 6p8p1B6JrEWQDC768pnQCj4u5s95oySDwmZPsVtoP5iN test-validator/accounts/sol_usdc/dlmm/6p8p1B6JrEWQDC768pnQCj4u5s95oySDwmZPsVtoP5iN.json \
     --bpf-program LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo test-validator/accounts/sol_usdc/dlmm/LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo.so \
+    --account EdPxg8QaeFSrTYqdWJn6Kezwy9McWncTYueD9eMGCuzR test-validator/accounts/tmp/EdPxg8QaeFSrTYqdWJn6Kezwy9McWncTYueD9eMGCuzR.json \
+    --account CYbD9RaToYMtWKA7QZyoLahnHdWq553Vm62Lh6qWtuxq test-validator/accounts/tmp/CYbD9RaToYMtWKA7QZyoLahnHdWq553Vm62Lh6qWtuxq.json \
+    --account GviiXg2Xc1xCpyNY36r7h1EAy7uvse5UMkiiyHjRDU6Z test-validator/accounts/tmp/GviiXg2Xc1xCpyNY36r7h1EAy7uvse5UMkiiyHjRDU6Z.json \
+    --account 3bWPj5eepJm8CxUzk5MMFMN2CFJkntxKvbmy4zwwtpJd test-validator/accounts/tmp/3bWPj5eepJm8CxUzk5MMFMN2CFJkntxKvbmy4zwwtpJd.json \
+    --account AA5RaVvyGyZgtmAsJJHT5ZVBxVPtAXuYaMwfgeFJW4Mk test-validator/accounts/tmp/AA5RaVvyGyZgtmAsJJHT5ZVBxVPtAXuYaMwfgeFJW4Mk.json \
+    --account 3RnGcnuAuew5LcfF9vphvHEvUgqLPrEL6vnoueBPw8pe test-validator/accounts/tmp/3RnGcnuAuew5LcfF9vphvHEvUgqLPrEL6vnoueBPw8pe.json \
+    --account 72jQFwjd14BEhyDfdQsH7D2hS5dN1H6bzsikjkyHyx2D test-validator/accounts/tmp/72jQFwjd14BEhyDfdQsH7D2hS5dN1H6bzsikjkyHyx2D.json \
+    --account HTvjzsfX3yU6BUodCjZ5vZkUrAxMDTrBs3CJaq43ashR test-validator/accounts/tmp/HTvjzsfX3yU6BUodCjZ5vZkUrAxMDTrBs3CJaq43ashR.json \
+    --account H7j5NPopj3tQvDg4N8CxwtYciTn3e8AEV6wSVrxpyDUc test-validator/accounts/tmp/H7j5NPopj3tQvDg4N8CxwtYciTn3e8AEV6wSVrxpyDUc.json \
+    --account HbYjRzx7teCxqW3unpXBEcNHhfVZvW2vW9MQ99TkizWt test-validator/accounts/tmp/HbYjRzx7teCxqW3unpXBEcNHhfVZvW2vW9MQ99TkizWt.json \
+    --account So11111111111111111111111111111111111111112  test-validator/accounts/tmp/So11111111111111111111111111111111111111112.json  \
+    --account EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v test-validator/accounts/tmp/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.json \
+    --account EgEYXef2FCoEYLHJJW74dMbom1atLXo6KwPuA6mSATYA test-validator/accounts/tmp/EgEYXef2FCoEYLHJJW74dMbom1atLXo6KwPuA6mSATYA.json \
+    --account D1ZN9Wj1fRSUQfCjhvnu1hqDMT7hzjzBBpi12nVniYD6 test-validator/accounts/tmp/D1ZN9Wj1fRSUQfCjhvnu1hqDMT7hzjzBBpi12nVniYD6.json \
+    --account BB43F9PEYgR56RFnPQv9x8MzgrbXKDqkYZj2go2NtRYL test-validator/accounts/tmp/BB43F9PEYgR56RFnPQv9x8MzgrbXKDqkYZj2go2NtRYL.json \
     --reset
